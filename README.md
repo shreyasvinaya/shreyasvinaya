@@ -2,7 +2,7 @@
 <!-- May add the top image back again in the future -->
 <br />
 <!--<h1 align="center">🚀️ Hi there, I'm Shreyas! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1> -->
-<!--a href="http://shreyasvinaya.github.io/" target="_blank"><img src="https://raw.githubusercontent.com/shreyasvinaya/shreyasvinaya/main/header.png" /></a-->
+<a href="https://linktr.ee/shreyasv" target="_blank"><img src="https://raw.githubusercontent.com/shreyasvinaya/shreyasvinaya/main/header.png" /></a>
 <!--<h3 align="center">🎯️An undergraduate student at BITS Goa and self taught developer 🚀️</h3> -->
   
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shreyasvinaya&label=Profile%20views&color=0e75b6&style=flat" alt="shreyasvinaya" /> </p>
