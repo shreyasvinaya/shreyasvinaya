@@ -11,9 +11,7 @@
 
 ## 📖 About me
 
-- 💻 Working on **my React, Flutter and Python skills**
-
-- 🌱 Learning **Express, Node and Next.js**
+- 🔭 I’m currently working on **Large Language Models and their applications in various Domains**
 
 - 🎓 **Computer Science Engineering Student** at BITS Goa
 
