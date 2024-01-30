@@ -37,10 +37,6 @@
   
 ## 💻 Technologies and Tools
 <p align="left"> 
-	<code> <img height="32" width="32" src="images/react.svg" /> </code>
-	<code> <img height="32" width="32" src="images/nodejs.svg" />  </code>
-	<code> <img height="32" width="32" src="images/js.svg" /> </code>
-	<code> <img height="32" width="32" src="images/java.svg" /> </code>
 	<code> <img height="32" width="32" src="images/python.svg" /> </code>
 	<code> <img height="32" width="32" src="images/c.svg" /> </code>
 	<code> <img height="32" width="32" src="images/flask.svg" /> </code>
@@ -48,6 +44,10 @@
 	<code> <img height="32" width="32" src="images/html5.svg" /> </code>
 	<code> <img height="32" width="32" src="images/css3.svg" /> </code>
 	<code> <img height="32" width="32" src="images/linux.svg" /> </code>
+ 	<code> <img height="32" width="32" src="images/react.svg" /> </code>
+	<code> <img height="32" width="32" src="images/nodejs.svg" />  </code>
+ 	<code> <img height="32" width="32" src="images/js.svg" /> </code>
+	<code> <img height="32" width="32" src="images/java.svg" /> </code>
 </p>  
   
 ## 📈 Github Stats
@@ -73,8 +73,6 @@
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats"><img alt="shreyasvinaya's GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=shreyasvinaya&theme=prussian" /></a>
 </details>
 <br />
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=shreyasvinaya&theme=react-dark)
 
 <!--<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shreyasvinaya&show_icons=true&locale=en&theme=great-gatsby" alt="shreyasvinaya" /></p>-->
 
