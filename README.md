@@ -13,11 +13,11 @@
 
 - 🔭 I’m currently working on **Large Language Models and their applications in various Domains**
 
-- 💼 **AI Research Scientist** at <a href = "https://mstack.ai>Mstack.ai</a>
+- 💼 **AI Research Scientist** at **[MStack AI](https://mstack.ai)**
 
-- 💼 Prev: **Research Fellow @ Deep forest Sciences, Product Engineering Intern @ Sprinklr**
+- 💼 Prev: **Research Fellow @ [Deep forest Sciences](http://deepforestsci.com/), Product Engineering Intern @ [Sprinklr](https://www.sprinklr.com)**
 
-- 🎓
+- 🎓 **Computer Science and Chemistry @ BITS Pilani**
 
 - 😄 Pronouns: **He/Him**
 
