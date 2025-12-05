@@ -13,7 +13,11 @@
 
 - 🔭 I’m currently working on **Large Language Models and their applications in various Domains**
 
-- 🎓 **Computer Science Engineering Student** at BITS Goa
+- 💼 **AI Research Scientist** at <a href = "https://mstack.ai>Mstack.ai</a>
+
+- 💼 Prev: **Research Fellow @ Deep forest Sciences, Product Engineering Intern @ Sprinklr**
+
+- 🎓
 
 - 😄 Pronouns: **He/Him**
 
@@ -47,7 +51,6 @@
  	<code> <img height="32" width="32" src="images/react.svg" /> </code>
 	<code> <img height="32" width="32" src="images/nodejs.svg" />  </code>
  	<code> <img height="32" width="32" src="images/js.svg" /> </code>
-	<code> <img height="32" width="32" src="images/java.svg" /> </code>
 </p>  
   
 ## 📈 Github Stats
